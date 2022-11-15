@@ -1,0 +1,19 @@
+.btn{
+    padding: 12px;
+  display: flex;
+  justify-content: center;
+    width: 20%;
+    margin: 0 auto;
+    background-color: aquamarine;
+    border: none;
+    border-radius: 12px;
+
+transition:all ease-in 1ms;
+    
+}
+.btn:hover{
+
+    background-color: rgb(72, 197, 156);
+    
+    margin-top: 10px;
+}

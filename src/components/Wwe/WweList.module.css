@@ -1,0 +1,10 @@
+
+    .parent{
+    
+        display: grid;
+        place-content: center;
+        width:25em;
+        margin: 0 auto;
+        padding: 40px;
+    
+    }
